@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Initial page 12](README.md)
 * [New Page](new-page.md)
 
